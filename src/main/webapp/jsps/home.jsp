@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to SampatSiva Technologies</h1>
 <h1 align="center">Phone Number: +91 9885553477</h1>
-<h1 align="center">SampatSiva Technologies is a Very Good Training Center for DevOps, Cloud, Ansible, Kubernetes and Terraform</h1>
+<h1 align="center">SampatSiva & Rahul Technologies is a Very Good Training Center for DevOps, Cloud, Ansible, Kubernetes and Terraform</h1>
 
 <h1 align="center">Trainer Name: Sivaiah Kallagunta</h1>
 
